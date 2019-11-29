@@ -23,7 +23,7 @@
       "properties": {
         "adcode": 230100,
         "name": "哈尔滨",
-        "cp": [126.642464, 45.756967],
+        "center": [126.642464, 45.756967],
         "childrenNum": 18,
         "level": "city",
         "subFeatureIndex": 0,
@@ -33,7 +33,7 @@
         "areacode": 230100,
         "longitude": 126.642464,
         "latitude": 45.756967,
-        "center": [8513, 7878],
+        "cp": [8513, 7878],
         "drilldown": "heilongjiang/haerbin"
       },
       "geometry": {
